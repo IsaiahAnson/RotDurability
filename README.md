@@ -2,6 +2,8 @@
 
 # RotDurability
 
+[**Get it on Thunderstore**](https://thunderstore.io/c/grain-rot/p/Mentalize/RotDurability/)
+
 Durability as **uses remaining** instead of a percentage, plus a **DPS** figure
 on the damage row. A UE4SS mod for [Grain Rot](https://store.steampowered.com/app/4450620/).
 
