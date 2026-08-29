@@ -1,8 +1,8 @@
-<img src="icon.png" width="128" align="right" alt="RotDurability icon">
-
 # RotDurability
 
 [**Get it on Thunderstore**](https://thunderstore.io/c/grain-rot/p/Mentalize/RotDurability/)
+
+<img src="icon.png" width="120" align="right" alt="RotDurability icon">
 
 Durability as **uses remaining** instead of a percentage, plus a **DPS** figure
 on the damage row. A UE4SS mod for [Grain Rot](https://store.steampowered.com/app/4450620/).
