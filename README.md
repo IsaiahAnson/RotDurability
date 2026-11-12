@@ -1,8 +1,6 @@
-# RotDurability
+<img src="https://raw.githubusercontent.com/IsaiahAnson/rot-durability/main/assets/banner.svg" width="100%" alt="RotDurability, a Grain Rot mod by Mentalize. Durability as uses left, not a percentage. Client-side, Cosmetic only, UE4SS.">
 
-[**Get it on Thunderstore**](https://thunderstore.io/c/grain-rot/p/Mentalize/RotDurability/)
-
-<img src="icon.png" width="120" align="right" alt="RotDurability icon">
+<a href="https://thunderstore.io/c/grain-rot/p/Mentalize/RotDurability/"><img src="https://raw.githubusercontent.com/IsaiahAnson/rot-durability/stats/downloads.svg" width="100%" alt="Download count and latest version on Thunderstore. Get it on Thunderstore."></a>
 
 Durability as **uses remaining** instead of a percentage, plus a **DPS** figure
 on the damage row. A UE4SS mod for [Grain Rot](https://store.steampowered.com/app/4450620/).
